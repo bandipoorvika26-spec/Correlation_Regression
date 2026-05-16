@@ -82,6 +82,10 @@ plt.legend(['Regression Line', 'Data points'])
 
 plt.show()
 ```
+```
+#Souce
+https://github.com/bandipoorvika26-spec/Correlation_Regression
+```
 # Result
 <img width="1030" height="773" alt="image" src="https://github.com/user-attachments/assets/0d0ab20f-476d-4da2-94a2-4e820b2f8358" />
 
